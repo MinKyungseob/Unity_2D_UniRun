@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/UniRun.unity
+- path: Assets/00.Scenes/MenuScene.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
